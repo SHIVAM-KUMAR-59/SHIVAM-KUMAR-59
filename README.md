@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate software and web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 💬 Ask me about **C++ , JAVA , MERN**
 
