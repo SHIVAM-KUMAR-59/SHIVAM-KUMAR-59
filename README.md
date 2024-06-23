@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **jsrshivamx7@gmail.com**
 
-<h3 align="left">Connect with me: <a href="www.linkedin.com/in/shivam-kumar-946614277">LinkedIn account</a></h3>
 <p align="left">
 </p>
 
