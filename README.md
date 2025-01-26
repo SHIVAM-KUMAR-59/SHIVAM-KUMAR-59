@@ -57,7 +57,7 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Frontend Developer** with ov
 
 ## 🏆 **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?username=SHIVAM-KUMAR-59&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SHIVAM-KUMAR-59&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SHIVAM-KUMAR-59&theme=dark&hide_border=false&cache_seconds=86400)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAM-KUMAR-59&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
