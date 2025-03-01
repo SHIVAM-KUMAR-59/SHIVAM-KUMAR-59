@@ -5,7 +5,7 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Frontend Developer** with ov
 ---
 
 ## 🌱 **Currently Working On**  
-- **Full Stack Development** – Building and optimizing applications using **Next.js**, **Node.js**, **Express.js**, and **MongoDB** in my role as a **Frontend Developer at Konnexions** and contributions to **college societies**.  
+- **Full Stack Development** – Building and optimizing applications using **Next.js**, **Node.js**, **Express.js**, and **MongoDB** in my role as a **Full Stack Web Developer Intern at Ayuryuj**.  
 - **Learning Go (Golang)** – Expanding my backend expertise by diving into **Go** for high-performance applications.  
 - **Completed Java (OOP)** – Strengthened my object-oriented programming knowledge and applied it to real-world projects.  
 - **Data Structures & Algorithms** – Improving problem-solving skills through **LeetCode challenges**.  
