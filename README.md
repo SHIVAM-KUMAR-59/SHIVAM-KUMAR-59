@@ -5,9 +5,12 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Frontend Developer** with ov
 ---
 
 ## 🌱 **Currently Working On**  
-- A **Next.js project** with features like responsive design and smooth animations using **Framer Motion**.  
-- Exploring **backend development** with **Node.js**, **Express.js**, and **MongoDB** to enhance my full-stack capabilities.  
-- Learning **Python** and **Java (OOP)** to expand my skill set.  
+- **Full Stack Development** – Building and optimizing applications using **Next.js**, **Node.js**, **Express.js**, and **MongoDB** in my role as a **Frontend Developer at Konnexions** and contributions to **college societies**.  
+- **Learning Go (Golang)** – Expanding my backend expertise by diving into **Go** for high-performance applications.  
+- **Completed Java (OOP)** – Strengthened my object-oriented programming knowledge and applied it to real-world projects.  
+- **Data Structures & Algorithms** – Improving problem-solving skills through **LeetCode challenges**.  
+- **Tech Community Involvement** – Contributing to my college societies **Cybervault** and **Konnexions** alongside development.  
+ 
 
 ---
 
