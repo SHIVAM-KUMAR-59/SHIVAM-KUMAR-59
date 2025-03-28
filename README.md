@@ -39,12 +39,12 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Full Stack Web Developer** w
 ### 2. **Startup Idea Platform**  
 - Developed with **Next.js 15**, this platform allows entrepreneurs to submit and pitch startup ideas for virtual competitions.  
 - Features **GitHub authentication**, **live content API**, and **search functionality**.  
-- [View Project](https://connect-ups.vercel.app)  
+- [View Live Demo](https://connect-ups.vercel.app)  
 
 ### 3. **Sooth-Mind**  
 - A mindfulness-focused web app providing **relaxation techniques**, **guided meditations**, and **motivational quotes**.  
 - Built with **NextJs**, **Tailwind CSS**, and integrated **Hugging Face** APIs for dynamic content.  
-- [View Repository](https://sooth-mind.vercel.app)  
+- [View Live Demo](https://sooth-mind.vercel.app)  
 
 ### 4. **Full-Stack Blog App**  
 - A MERN-stack blog application featuring **user authentication**, **CRUD functionality**, and a **minimalistic design**.  
