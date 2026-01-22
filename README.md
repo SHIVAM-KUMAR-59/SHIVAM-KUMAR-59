@@ -4,9 +4,8 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Full Stack Web Developer** w
 
 ---
 
-## 🌱 **Currently Working On**  
-- **Full Stack Development** – Building and optimizing applications using **Next.js**, **Node.js**, **Express.js**, and **MongoDB** in my role as a **Software Developer Intern at Ayuryuj**.  
-- **Learning Go (Golang)** – Expanding my backend expertise by diving into **Go** for high-performance applications.  
+## 🌱 **Currently Working On**
+- **Learning Low Level Design** – Expanding my engineering expertise by diving into low level design for creating high-performance and scalable applications.
 - **Completed Java (OOP)** – Strengthened my object-oriented programming knowledge and applied it to real-world projects.  
 - **Data Structures & Algorithms** – Improving problem-solving skills through **LeetCode challenges**.  
 - **Tech Community Involvement** – Contributing to my college societies **Cybervault** and **Konnexions** alongside development.  
