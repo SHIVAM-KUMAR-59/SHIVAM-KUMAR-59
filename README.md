@@ -20,11 +20,16 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Software Developer** with ov
 ### 2. **Draftly – Real-Time Collaborative Editor**  
 - A real-time collaborative document editor with role-based access control, rich text editing, and version history.
 - Full-stack real-time collaborative editor built with Next.js, Express, Prisma, and Redis, enabling seamless document editing, team collaboration, and scalable productivity workflows.
-- [View Live Demo](https://draftly.shivamkumar.work)  
+- [View Live Demo](https://draftly.shivamkumar.work)
 
 ### 3. **Trackr – Job Application Tracker**  
 - A minimal, full-stack job application tracker built for developers and designers who are actively job hunting. Trackr gives you a clean, distraction-free interface to log every application, track your pipeline across stages, and understand your search through charts and statistics, without the overhead of a spreadsheet.
-- [View Live Demo](https://trackr.shivamkumar.work)  
+- [View Live Demo](https://trackr.shivamkumar.work)
+
+### 4. **Authkit – Template for auth**  
+- Production-ready authentication boilerplate for rapid integration — built for hackathons, side projects, and beyond.
+- Full-stack authentication starter with Next.js + Express + Supabase + Redis, supporting Google, GitHub, and Email OTP login out of the box. Clone it, configure your keys, and have auth running in minutes.
+- [View Live Demo](https://authkit.shivamkumar.work)  
    
 ---
 
