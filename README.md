@@ -1,12 +1,11 @@
 # 🌟 Shivam Kumar  
 
-Hi there! 👋 I'm **Shivam Kumar**, a passionate **Full Stack Web Developer** with over 2 years of experience. My journey in tech is fueled by curiosity, learning, and the desire to create impactful digital solutions. Whether it's building responsive websites, solving algorithmic challenges, or diving into backend systems, I love turning ideas into reality through code.  
+Hi there! 👋 I'm **Shivam Kumar**, a passionate **Software Developer** with over 2 years of experience. My journey in tech is fueled by curiosity, learning, and the desire to create impactful digital solutions. Whether it's building responsive websites, solving algorithmic challenges, or diving into backend systems, I love turning ideas into reality through code.  
 
 ---
 
 ## 🌱 **Currently Working On**
 - **Learning Low Level Design** – Expanding my engineering expertise by diving into low level design for creating high-performance and scalable applications.
-- **Completed Java (OOP)** – Strengthened my object-oriented programming knowledge and applied it to real-world projects.  
 - **Data Structures & Algorithms** – Improving problem-solving skills through **LeetCode challenges**.  
 - **Tech Community Involvement** – Contributing to my college societies **Cybervault** and **Konnexions** alongside development.  
 
@@ -16,21 +15,21 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Full Stack Web Developer** w
 
 ### 1. **Portfolio Website**  
 - Built with **Next.js**, **Tailwind CSS**, and **Framer Motion**, this responsive website showcases my skills and projects.  
-- [View Live Demo](https://portfolio-shivam-nine.vercel.app)
+- [View Live Demo](https://shivamkumar.work)
   
-### 2. **Startup Idea Platform**  
-- Developed with **Next.js 15**, this platform allows entrepreneurs to submit and pitch startup ideas for virtual competitions.  
-- Features **GitHub authentication**, **live content API**, and **search functionality**.  
-- [View Live Demo](https://connect-ups.vercel.app)  
+### 2. **Draftly – Real-Time Collaborative Editor**  
+- A real-time collaborative document editor with role-based access control, rich text editing, and version history.
+- Full-stack real-time collaborative editor built with Next.js, Express, Prisma, and Redis, enabling seamless document editing, team collaboration, and scalable productivity workflows.
+- [View Live Demo](https://draftly.shivamkumar.work)  
 
 ### 3. **Sooth-Mind**  
 - A mindfulness-focused web app providing **relaxation techniques**, **guided meditations**, and **motivational quotes**.  
 - Built with **NextJs**, **Tailwind CSS**, and integrated **Hugging Face** APIs for dynamic content.  
 - [View Live Demo](https://sooth-mind.vercel.app)  
 
-### 4. **Full-Stack Blog App**  
-- A MERN-stack blog application featuring **user authentication**, **CRUD functionality**, and a **minimalistic design**.  
-- [View on GitHub](https://github.com/SHIVAM-KUMAR-59/Blog-App)
+### 4. **Trackr – Job Application Tracker**  
+- A minimal, full-stack job application tracker built for developers and designers who are actively job hunting. Trackr gives you a clean, distraction-free interface to log every application, track your pipeline across stages, and understand your search through charts and statistics, without the overhead of a spreadsheet.
+- [View Live Demo](https://trackr.shivamkumar.work)  
    
 ---
 
