@@ -22,12 +22,7 @@ Hi there! 👋 I'm **Shivam Kumar**, a passionate **Software Developer** with ov
 - Full-stack real-time collaborative editor built with Next.js, Express, Prisma, and Redis, enabling seamless document editing, team collaboration, and scalable productivity workflows.
 - [View Live Demo](https://draftly.shivamkumar.work)  
 
-### 3. **Sooth-Mind**  
-- A mindfulness-focused web app providing **relaxation techniques**, **guided meditations**, and **motivational quotes**.  
-- Built with **NextJs**, **Tailwind CSS**, and integrated **Hugging Face** APIs for dynamic content.  
-- [View Live Demo](https://sooth-mind.vercel.app)  
-
-### 4. **Trackr – Job Application Tracker**  
+### 3. **Trackr – Job Application Tracker**  
 - A minimal, full-stack job application tracker built for developers and designers who are actively job hunting. Trackr gives you a clean, distraction-free interface to log every application, track your pipeline across stages, and understand your search through charts and statistics, without the overhead of a spreadsheet.
 - [View Live Demo](https://trackr.shivamkumar.work)  
    
