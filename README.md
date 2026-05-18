@@ -1,6 +1,6 @@
 # 🌟 Shivam Kumar  
 
-Hi there! 👋 I'm **Shivam Kumar**, a passionate **Software Developer** with over 2 years of experience. My journey in tech is fueled by curiosity, learning, and the desire to create impactful digital solutions. Whether it's building responsive websites, solving algorithmic challenges, or diving into backend systems, I love turning ideas into reality through code.  
+Hi there! 👋 I'm **Shivam Kumar**, a passionate **Software Developer** with over 2 years of dev experience. My journey in tech is fueled by curiosity, learning, and the desire to create impactful digital solutions. Whether it's building responsive websites, solving algorithmic challenges, or diving into backend systems, I love turning ideas into reality through code.  
 
 ---
 
