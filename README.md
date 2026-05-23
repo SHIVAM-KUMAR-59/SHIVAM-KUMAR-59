@@ -12,7 +12,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ### 🧑‍💻 About Me
 
@@ -26,29 +28,21 @@ const shivam = {
     "Open Source",
     "System Design",
   ],
-  techStack: ["Java", "GoLang", "JavaScript", "Node.js", "React", "Spring Boot"],
-  askMeAbout: [
-    "Backend Development",
-    "System Design",
-    "REST APIs",
-    "DSA",
-  ],
+  techStack: ["Java", "GoLang", "JavaScript", "Node.js", "React"],
+  askMeAbout: ["Backend Dev", "System Design", "REST APIs", "DSA"],
   lookingFor: "Backend / Full Stack opportunities 🚀",
-  funFact: "When I'm not coding, I'm on the field — cricket bat or football at my feet ⚽🏏",
+  funFact: "Off-screen? Cricket bat or football at my feet ⚽🏏",
 };
 ```
 
-- 🚀 Building scalable backend systems and exploring distributed architectures
-- ⚙️ Deep-diving into System Design, APIs and scalable infrastructure
-- 🌱 Currently sharpening skills in GoLang, Java & backend engineering
+- 🚀 Building scalable backend systems & distributed architectures
+- ⚙️ Deep-diving into System Design, APIs & scalable infrastructure
+- 🌱 Sharpening skills in GoLang, Java & backend engineering
 - 💼 Actively seeking Backend / Full Stack Developer roles
 - 👯 Open to collaborate on Open Source & Backend Projects
 - 💬 Ask me about Java, GoLang, Node.js, REST APIs or System Design
-- 📫 Reach me at [shivamkumardev01@gmail.com](mailto:shivamkumardev01@gmail.com)
-- 🌐 Portfolio: [shivamkumar.work](https://shivamkumar.work)
-
-<br clear="right"/>
-
+- 📫 [shivamkumardev01@gmail.com](mailto:shivamkumardev01@gmail.com)
+- 🌐 [shivamkumar.work](https://shivamkumar.work)
 ---
 
 ### 🌐 Connect With Me
