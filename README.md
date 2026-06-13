@@ -21,7 +21,7 @@
 ```typescript
 const shivam = {
   name: "Shivam Kumar",
-  role: "CS Student & Aspiring Backend Engineer",
+  role: "CSE Student & Aspiring Backend Engineer",
   currentFocus: [
     "Scalable Backend Systems",
     "Distributed Systems",
