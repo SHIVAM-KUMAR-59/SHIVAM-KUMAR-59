@@ -29,7 +29,7 @@ const shivam = {
     "System Design",
   ],
   techStack: ["Java", "GoLang", "JavaScript", "Node.js", "React"],
-  askMeAbout: ["Backend Dev", "System Design", "REST APIs", "DSA"],
+  askMeAbout: ["Software", "Backend Dev", "System Design", "REST APIs", "DSA"],
   lookingFor: "Backend / Full Stack opportunities 🚀",
   funFact: "Off-screen? Cricket bat or football at my feet ⚽🏏",
 };
